@@ -9,9 +9,7 @@ hero:
 
 # Welcome
 
-During the semester, student teams will update this site with pre-reads and summaries of class discussion for each week.
+During the semester, student teams will update this site with summaries of class discussion for each week.
 
-- Week 1
-  - [Before Class](/syllabus.pdf)
-  - [Monday](week_01/monday.md)
+- [Week 01 Introduction To Software Performance Engineering](week_01/index.md)
   
