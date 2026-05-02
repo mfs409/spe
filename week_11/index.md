@@ -424,27 +424,27 @@ Both optimization for a specific workflow and profile guided optimization can in
 ### References
 
 
-https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78
-<br>
-https://learn.microsoft.com/en-us/visualstudio/profiling/what-is-a-profiler?view=visualstudio
-<br>
-https://www.ibm.com/think/topics/workflow
-<br>
-https://learn.microsoft.com/en-us/visualstudio/profiling/choose-performance-tool?view=visualstudio
-<br>
-https://www.geeksforgeeks.org/system-design/types-of-cache/
-<br>
-https://go.dev/doc/pgo
-<br>
-https://arxiv.org/html/2507.16649v1
-<br>
-https://llvm.org/docs/HowToBuildWithPGO.html
-<br>
-https://developer.android.com/games/agde/pgo-overview
-<br>
-https://www.emergentmind.com/topics/profile-guided-optimizations-in-gcc
-<br>
-https://en.wikipedia.org/wiki/Profile-guided_optimization
-<br>
-https://dl.acm.org/doi/abs/10.1145/2854038.2854044
+Android Developers. (2026, February 26). *How profile-guided optimization (PGO) works*. [https://developer.android.com/games/agde/pgo-overview](https://developer.android.com/games/agde/pgo-overview)
+
+Asyraf, A. (2021, March 23). *How to add Dropdown in markdown ??*. DEV Community. [https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78](https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78)
+
+Chen, D., Xinliang Li, D., & Moseley, T. (2016, February 29). *AutoFDO: Automatic feedback-directed optimization for warehouse-scale applications*. ACM Digital Library. [https://dl.acm.org/doi/abs/10.1145/2854038.2854044](https://dl.acm.org/doi/abs/10.1145/2854038.2854044)
+
+Emergent Mind. (2025, December 27). *GCC profile guided optimizations*. [https://www.emergentmind.com/topics/profile-guided-optimizations-in-gcc](https://www.emergentmind.com/topics/profile-guided-optimizations-in-gcc)
+
+GeeksforGeeks. (2025b, July 23). *Types of cache*. [https://www.geeksforgeeks.org/system-design/types-of-cache/](https://www.geeksforgeeks.org/system-design/types-of-cache/)
+
+Go Dev Docs. (n.d.). *Profile-guided optimization*. Go. [https://go.dev/doc/pgo](https://go.dev/doc/pgo)
+
+IBM. (n.d.). *What is a workflow?* [https://www.ibm.com/think/topics/workflow](https://www.ibm.com/think/topics/workflow)
+
+Liu, B., Huang, Y., Gao, J., Shi, J., Liu, Y., Sun, Y., & Ji, W. (2025, July 22). *From Profiling to Optimization: Unveiling the Profile Guided Optimization*. arxiv. [https://arxiv.org/html/2507.16649v1](https://arxiv.org/html/2507.16649v1)
+
+LLVM Project. (2026, April 30). *How to Build Clang and LLVM with Profile-Guided Optimizations*. LLVM Compiler Infrastructure. [https://llvm.org/docs/HowToBuildWithPGO.html](https://llvm.org/docs/HowToBuildWithPGO.html)
+
+Microsoft. (2025, October 30). *What is a profiler? \- visual studio (windows)*. What is a profiler? \- Visual Studio (Windows) | Microsoft Learn. [https://learn.microsoft.com/en-us/visualstudio/profiling/what-is-a-profiler?view=visualstudio](https://learn.microsoft.com/en-us/visualstudio/profiling/what-is-a-profiler?view=visualstudio)
+
+Microsoft. (2025, October 30). *Which performance tool should I use? \- visual studio (windows)*. Which performance tool should I use? \- Visual Studio (Windows) | Microsoft Learn. [https://learn.microsoft.com/en-us/visualstudio/profiling/choose-performance-tool?view=visualstudio](https://learn.microsoft.com/en-us/visualstudio/profiling/choose-performance-tool?view=visualstudio)
+
+*Profile-guided optimization*. Wikipedia. (2026, March 11). [https://en.wikipedia.org/wiki/Profile-guided\_optimization](https://en.wikipedia.org/wiki/Profile-guided_optimization)
 
