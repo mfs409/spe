@@ -12,4 +12,5 @@ hero:
 During the semester, student teams will update this site with summaries of class discussion for each week.
 
 - [Week 01 Introduction To Software Performance Engineering](week_01/index.md)
+- [Week 12 Storage System Optimization](week_12/index.md)
   
